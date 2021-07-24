@@ -1,4 +1,4 @@
-# Quranntino 
+# Quaranntino 
 ### _Indoor Positioning and Geofencing System for Covid Hospitals._
 
 ## Description
